@@ -6,7 +6,7 @@ A repository intended to help KygekDev achieve 1000 contributions in first year 
 
 KygekDev joined GitHub on July 16th, 2020, marking his first contribution on GitHub. He made 700+ contributions for the next 6 months on GitHub. Unfortunately, starting on January 2021, he wasn't active on GitHub for next 5 months. After 11 months since he joined GitHub, he started making contributions again. Unfortunately, there is too litte time to achieve 1000 contributions in less than 1 month since he started making contributions again. Because of that, he made this repository to help him actieve 1000 contributions before 1 year has passed since he joined GitHub.
 
-## How this repositories works
+## How this repository works
 
 KygekDev will occasionally make commits in the [`contributions.txt`](/contributions.txt) file to add a contribution mark on his GitHub profile. Each commit will be represented with the following format:
 
