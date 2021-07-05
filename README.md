@@ -17,6 +17,7 @@ KygekDev will occasionally make commits in the [`contributions.txt`](/contributi
 
 COMMIT `8c17d71a1bf55c419ddcd45d57b133c44790bcd6`: Contribution No. 632
 
+`contributions.txt`:
 ```
 + Contribution No. 632 - 01-01-2021 00:00 (GMT +8)
 ```
