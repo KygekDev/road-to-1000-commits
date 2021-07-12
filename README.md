@@ -1,6 +1,6 @@
 # Road to 1000 Contributions
 
-**UPDATE (12-07-2021): If you see my GitHub profile, you will only see 800s contributions in the last year. I don't know why it changed to this, which before shows 900s commits. Nevertheless, I assumed my contributions doesn't decreased, which means commits in the [`contributions.txt`](/contributions.txt) are still accurate.**
+**UPDATE (12-07-2021): If you see my GitHub profile, you will only see 800s contributions in the last year. I don't know why it changed to this, which before shows 900s contributions. Nevertheless, I assumed my contributions doesn't decreased, which means commits in the [`contributions.txt`](/contributions.txt) file are still accurate.**
 
 A repository intended to help KygekDev achieve 1000 contributions in first year using GitHub.
 
